@@ -132,8 +132,6 @@
 # Chapter 2  - Connections 
 ![](https://files.oaiusercontent.com/file-7CFvr9WWbVDd8j59bia1pL?se=2025-03-21T08%3A46%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D342930ce-499c-4433-911f-588b6fe575e0.webp&sig=8ntXWS/aFap5qBJnapFcdE1WE3LXnrhBxdsUp5Psndc%3D)
 
-# Chapter: Building an AI-Powered Non-Lethal Defense Gun
-
 ## **Introduction**
 In this chapter, we will guide you through the design, development, and assembly of an AI-powered non-lethal defense gun. This system is designed to detect potential threats using AI and deploy non-lethal force to neutralize attackers while ensuring safety.
 
