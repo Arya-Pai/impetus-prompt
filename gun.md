@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/4f612f9a-92ed-4d48-a7a1-92af30ed364c)
 # Chapter 1 - Components 
 ---
 
@@ -495,8 +495,10 @@ Technology is evolving at an unprecedented pace, and AI-powered security systems
 This marks the completion of our journey in designing and building an AI-powered defense system. As technology advances, continuous improvements will make such security systems even more intelligent, reliable, and adaptable for real-world applications.
 
 ---
+Prompt history: https://chatgpt.com/share/67dd3035-1ddc-8005-8190-a0fb48fbb950
 
 **End of the Book**
+
 
 
 
