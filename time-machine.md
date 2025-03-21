@@ -737,8 +737,9 @@ The wormhole then collapses or is maintained if further temporal travel is requi
 
 ---
 
+Prompts history: https://chatgpt.com/share/67dd2f5d-066c-8005-bc86-7ee1f4dee716
 
-
+**End of book**
 
 
 
