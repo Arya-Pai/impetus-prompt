@@ -130,7 +130,8 @@
 ---
 
 # Chapter 2  - Connections 
-![](https://files.oaiusercontent.com/file-7CFvr9WWbVDd8j59bia1pL?se=2025-03-21T08%3A46%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D342930ce-499c-4433-911f-588b6fe575e0.webp&sig=8ntXWS/aFap5qBJnapFcdE1WE3LXnrhBxdsUp5Psndc%3D)
+![image](https://github.com/user-attachments/assets/f0bfa0cc-2a15-4ed5-b602-c3350385dedd)
+
 
 ## **Introduction**
 In this chapter, we will guide you through the design, development, and assembly of an AI-powered non-lethal defense gun. This system is designed to detect potential threats using AI and deploy non-lethal force to neutralize attackers while ensuring safety.
@@ -452,7 +453,8 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 
-![](https://files.oaiusercontent.com/file-43YaueCyZqc7LRjWCoRvi4?se=2025-03-21T09%3A01%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D128d8420-3a20-4040-b24e-b9a0a93de659.webp&sig=k6kEFUrUWqzth%2BuN/Kl29vT0mRHCXnCpY2tb4xhGRtQ%3D)
+![image](https://github.com/user-attachments/assets/26bf68ee-6bb9-459c-8b9c-37d8e70dbf7c)
+
 
 Conclusion
 
