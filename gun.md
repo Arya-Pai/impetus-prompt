@@ -248,11 +248,11 @@ In this chapter, we will guide you through the design, development, and assembly
 ---
 
 ## **Conclusion**
+
 This chapter has provided a structured guide for building an AI-powered non-lethal defense gun. By following these steps, you can create a sophisticated, autonomous security system ensuring both protection and compliance with ethical safety standards.
 ---
 
 # Chapter 3 - AI Software Optimization for Real-Time Threat Detection
-# Chapter: Building an AI-Powered Non-Lethal Defense Gun
 
 ## **Introduction**
 In this chapter, we will guide you through the design, development, and assembly of an AI-powered non-lethal defense gun. This system is designed to detect potential threats using AI and deploy non-lethal force to neutralize attackers while ensuring safety.
