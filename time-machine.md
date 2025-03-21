@@ -74,6 +74,7 @@ Below is a detailed, purely fictional list of hardware components that one might
   - **Radiation Shielding:** Advanced multi-layered shields using heavy-metal composites and nanostructured materials to protect occupants from cosmic and reactor radiation.
 
 ---
+![image](https://github.com/user-attachments/assets/31c1e5f9-6230-4ce5-b232-79398e2382a0)
 
 ## **2. ChronoCore Reactor & Energy Generation**
 
